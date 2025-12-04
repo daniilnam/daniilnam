@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, my name is Daniil
+Begginer Python Developer
+## My hard skills: Python, Pyrogram, Pygame, Flask, SQLite
+
 
 <!--
 **daniilnam/daniilnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
